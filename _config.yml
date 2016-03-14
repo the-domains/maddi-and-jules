@@ -1,0 +1,28 @@
+name: 'maddi & Jules'
+favicon: null
+layout_spectrum: 0.5152842192910612
+typography_spectrum: 0.6017229815479368
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.0647908323444426
+  lightness: 0.30794945708476007
+  saturation: 0.13316271966323256
+  rhythmicContrast: 0.7466548474039882
+purpose: []
